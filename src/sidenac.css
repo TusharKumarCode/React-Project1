@@ -1,0 +1,26 @@
+#manb{
+    width: 200px;
+    height: 590px;
+    overflow-y: scroll;
+    position: fixed;
+    height: 100%;
+    top:47px;
+    width: 20%;
+
+}
+
+#maintext{
+    height: 100%;
+    width: 600px;
+    border: 1px solid firebrick;
+    margin-left: 300px;
+}
+
+#sz{
+    height:600px;
+}
+
+.fs-1{
+    height: 80px;
+}
+
